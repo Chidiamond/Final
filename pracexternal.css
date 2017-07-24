@@ -1,0 +1,97 @@
+<style type="text/css">
+			#container
+			{
+					width: 1100px;
+					height: 500px;
+					border: 1px ;
+			}
+			#header
+			{
+				background-color: black;
+				width: 1100px;
+				height:100px;	
+			}
+			#a
+			{
+				font-family: Verdana;
+				font-stretch: 200;
+				font-size: 200%;
+				text-align: center;
+				color: gold;
+			}
+			#b
+			{
+				font-family: Verdana;
+				font-style: italic;
+				font-stretch: 30;
+				font-size: 150%;
+				text-align: center;
+				color: gold;
+			}
+			#minicontent
+			{
+				width: 1100px;
+				height: 400px;
+			}
+			#sidebar
+			{
+				border: 3px white;
+				width: 200px;
+				height: 400px;
+				background-color: orange;
+				font color: blue;
+				float:  left;
+
+			}
+			#sidecontent
+			{
+				width: 900px;
+				height: 320px;
+				border: 3px grey;
+				background-color: grey;
+				font color: blue;
+				float:  right;
+
+			}
+			#overb
+			{
+				width: 1100px;
+				height: 320px;
+			}
+			#sideb
+			{
+				width: 300px;
+				height: 350px;
+				float:  left;
+			}
+			#subcont
+			{
+				width: 800px;
+				height: 350px;	
+				float: right;	
+			}
+			#footer
+			{
+				border: 1px solid black;
+				width: 1100px;
+				height:100px;
+				background-color: black;
+				font-family: Verdana;
+				font-style: italic;
+				color:gold;
+				text-align: center;
+			}
+			#c
+			{
+				font-family: Verdana;
+				font-style: italic;
+				font-size: 20px;
+				color:gold;
+			}
+			#d
+			{
+				font-family: Verdana;
+				font-size: 10px;
+				color:red;
+			}
+		</style>
